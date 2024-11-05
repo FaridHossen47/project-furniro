@@ -127,7 +127,10 @@ h1,h2,h3,h4,h5,h6{
  }
 
 /* banner part end */
-
+#bgtest{
+    padding: 200px 0;
+    background: aquamarine;
+}
 /* header part start */
 /* header part end */
 /* header part start */
